@@ -1,1 +1,2 @@
 # first-extension
+TAP HERE FOR A QUICK REVIEW OF A PROJECT
